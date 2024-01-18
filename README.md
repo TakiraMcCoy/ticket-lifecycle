@@ -52,7 +52,7 @@ Click "Open a New Ticket" and create a ticket
 <img width="599" alt="Screen Shot 2024-01-17 at 10 37 08 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/aa4d0b9c-008c-4aed-ad35-c403c4072120">
 <img width="670" alt="Screen Shot 2024-01-17 at 10 37 50 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/6112add5-6513-4a1c-8f64-c6ce0aad8fda">
 
-<img width="748" alt="Screen Shot 2024-01-17 at 10 40 22 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/5b41ad57-8441-4ec5-a25d-629152978a2f">
+
 
 
 Browse help desk login page: http://localhost/osTicket/scp/login.php to view tickets.
@@ -72,7 +72,7 @@ Update SLA Plan.
 Respond to the issue and post reply.
 
 
-
+<img width="748" alt="Screen Shot 2024-01-17 at 10 40 22 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/5b41ad57-8441-4ec5-a25d-629152978a2f">
 <img width="748" alt="Screen Shot 2024-01-17 at 10 41 11 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/d5601dd5-fc28-4e7f-bc57-586df3e5d844">
 <img width="749" alt="Screen Shot 2024-01-17 at 10 42 10 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/e2b1c959-0275-41ff-80d9-db692f0a2787">
 
