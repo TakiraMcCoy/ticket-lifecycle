@@ -27,3 +27,19 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+<img width="635" alt="Screen Shot 2024-01-17 at 10 28 45 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/7871053e-a295-4b4c-b3fe-f441f2133811">
+<img width="630" alt="Screen Shot 2024-01-17 at 10 30 41 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/88edff54-08c3-4dc9-aeb9-c3baca76536d">
+<img width="462" alt="Screen Shot 2024-01-17 at 10 31 33 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/2c69cd2c-83c2-48a3-abee-a57ff12ab903">
+<img width="751" alt="Screen Shot 2024-01-17 at 10 33 40 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/d5896d3a-9941-4aa1-a049-3893e419cc00">
+<img width="765" alt="Screen Shot 2024-01-17 at 10 34 26 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/00633c8a-ab5b-4ad3-8458-f11e0fcd3536">
+<img width="744" alt="Screen Shot 2024-01-17 at 10 35 25 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/85cddcef-b7e5-46e1-941f-92310d3517d7">
+<img width="599" alt="Screen Shot 2024-01-17 at 10 36 15 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/a9b93d0e-4313-4293-9165-5985004e9c42">
+<img width="599" alt="Screen Shot 2024-01-17 at 10 36 43 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/6ec1cc32-ecc0-4cd7-b20f-b1318381d90c">
+<img width="599" alt="Screen Shot 2024-01-17 at 10 37 08 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/aa4d0b9c-008c-4aed-ad35-c403c4072120">
+<img width="670" alt="Screen Shot 2024-01-17 at 10 37 50 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/6112add5-6513-4a1c-8f64-c6ce0aad8fda">
+<img width="748" alt="Screen Shot 2024-01-17 at 10 40 02 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/6cc9f22e-070b-463a-9c71-7e89fdf6e3e7">
+<img width="748" alt="Screen Shot 2024-01-17 at 10 40 22 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/5b41ad57-8441-4ec5-a25d-629152978a2f">
+<img width="748" alt="Screen Shot 2024-01-17 at 10 41 11 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/d5601dd5-fc28-4e7f-bc57-586df3e5d844">
+<img width="749" alt="Screen Shot 2024-01-17 at 10 41 50 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/45a7489e-49df-4b04-89ec-4ca751148e58">
+<img width="749" alt="Screen Shot 2024-01-17 at 10 42 10 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/e2b1c959-0275-41ff-80d9-db692f0a2787">
+
