@@ -35,10 +35,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 Step 1:
-Browse End Users osTicket URL:http://localhost/osTicket/ to access "Support Ticket System"
+Browse End Users osTicket URL:http://localhost/osTicket/ to access "Support Ticket System".
 
 
-Click "Open a New Ticket" and create a ticket 
+Click "Open a New Ticket" and create a ticket.
 
 
 
@@ -56,7 +56,7 @@ Click "Open a New Ticket" and create a ticket
 
 
 Browse help desk login page: http://localhost/osTicket/scp/login.php to view tickets.
-Access the ticket.
+Assess the ticket.
 
 Update the priority level add notation if needed.
 
@@ -66,8 +66,8 @@ Assign ticket to agent or team.
 
 Update SLA Plan.
    -SEV-A (1 hour, 24/7)
-   -Sev-B (4 hours, 24/7)
-   -Sev-C (2 hours, business hours)
+   -SEV-B (4 hours, 24/7)
+   -SEV-C (2 hours, business hours)
 
 Respond to the issue and post reply.
 
@@ -77,8 +77,8 @@ Respond to the issue and post reply.
 <img width="749" alt="Screen Shot 2024-01-17 at 10 42 10 PM" src="https://github.com/TakiraMcCoy/ticket-lifecycle/assets/155402684/e2b1c959-0275-41ff-80d9-db692f0a2787">
 
 
-Select "Tickets"/"My Tickets"/"Assigned to Me" to  access the ticket assigned.
+Select "Tickets"/"My Tickets"/"Assigned to Me" to  assess the ticket assigned.
 
 Respond with the solution to the issue.
 
-Mark ticket status as "resloved" and "post reply"
+Mark ticket status as "resolved" and "post reply".
